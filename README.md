@@ -70,7 +70,7 @@ Example CSS snippet I used:
     border-style: solid;
     border-color: white;
 }
-
+```
 ## Author
 
 - Website - [Sanyam Phartyal](https://sanyam2511.github.io/portfolio/)
